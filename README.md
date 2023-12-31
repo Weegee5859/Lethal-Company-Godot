@@ -9,6 +9,8 @@
   Make sure you have Steam running in the background when attempting to launch the game. If launched successfully, Steam will show you playing "space wars". Max Players allowed on a server as of right now is 3.
 Feedback is appreciated!
 
+To Download, click the green Code<> button on the top right and click Download ZIP.
+
 ![screenshot_banner](https://github.com/Weegee5859/Lethal-Company-Godot/assets/7396992/181146c3-3bab-4c60-ac04-10c8a26e8478)
 
 ![Untitled4](https://github.com/Weegee5859/Lethal-Company-Godot/assets/7396992/5073b575-cfa6-4d39-b8cf-4fbda9359ff2)
